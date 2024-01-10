@@ -92,7 +92,8 @@ export default function Footer() {
         </div> */}
         
       </div>
-      <div className="flex flex-col items-center justify-between py-12 space-y-4 md:flex-row bg-zinc-900">
+      
+      {/* <div className="flex flex-col items-center justify-between py-12 space-y-4 md:flex-row bg-zinc-900">
         <div>
           <span>
             &copy; {new Date().getFullYear()} ACME, Inc. All rights reserved.
@@ -108,7 +109,8 @@ export default function Footer() {
             />
           </a>
         </div>
-      </div>
+      </div> */}
+      
     </footer>
   );
 }

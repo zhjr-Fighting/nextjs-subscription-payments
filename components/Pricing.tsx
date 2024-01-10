@@ -156,7 +156,6 @@ export default function Pricing({
               })}
             </div>
           </div>
-          <LogoCloud />
         </div>
       </section>
     );

@@ -79,7 +79,8 @@ export default function Footer() {
             </li>
           </ul>
         </div>
-        <div className="flex items-start col-span-1 text-white lg:col-span-6 lg:justify-end">
+        
+       {/*  <div className="flex items-start col-span-1 text-white lg:col-span-6 lg:justify-end">
           <div className="flex items-center h-10 space-x-6">
             <a
               aria-label="Github Repository"
@@ -88,7 +89,8 @@ export default function Footer() {
               <GitHub />
             </a>
           </div>
-        </div>
+        </div> */}
+        
       </div>
       <div className="flex flex-col items-center justify-between py-12 space-y-4 md:flex-row bg-zinc-900">
         <div>

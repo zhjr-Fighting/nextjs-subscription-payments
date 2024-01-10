@@ -90,7 +90,7 @@ export default function Pricing({
             .
           </p>
         </div>
-        <LogoCloud />
+        {/* <LogoCloud /> */}
       </section>
     );
 

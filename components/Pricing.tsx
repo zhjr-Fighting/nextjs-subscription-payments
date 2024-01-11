@@ -202,7 +202,7 @@ export default function Pricing({
               </button>
             )}
             
-            {intervals.includes('year') && (
+            {/* {intervals.includes('year') && (
               <button
                 onClick={() => setBillingInterval('year')}
                 type="button"
@@ -214,7 +214,7 @@ export default function Pricing({
               >
                 Yearly billing
               </button>
-            )}
+            )} */}
 
             
           </div>

@@ -103,8 +103,7 @@ export default function Pricing({
               Pricing Plans
             </h1>
             <p className="max-w-2xl m-auto mt-5 text-xl text-zinc-200 sm:text-center sm:text-2xl">
-              Start building for free, then add a site plan to go live. Account
-              plans unlock additional features.
+              "Start your subscription plan to enjoy seamless access to ChatGPT services, with global, fast, and seamless integration."
             </p>
             <div className="relative flex self-center mt-12 border rounded-lg bg-zinc-900 border-zinc-800">
               <div className="border border-pink-500 border-opacity-50 divide-y rounded-lg shadow-sm bg-zinc-900 divide-zinc-600">
@@ -169,8 +168,7 @@ export default function Pricing({
             Pricing Plans
           </h1>
           <p className="max-w-2xl m-auto mt-5 text-xl text-zinc-200 sm:text-center sm:text-2xl">
-            Start building for free, then add a site plan to go live. Account
-            plans unlock additional features.
+           "Start your subscription plan to enjoy seamless access to ChatGPT services, with global, fast, and seamless integration."
           </p>
           <div className="relative self-center mt-6 bg-zinc-900 rounded-lg p-0.5 flex sm:mt-8 border border-zinc-800">
             
